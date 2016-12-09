@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjectTwo</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="teama_goal">0</string>
+    <string name="teamb_goal">0</string>
+    <string name="teama_shoot">0</string>
+    <string name="teama_penalty">0</string>
+    <string name="teama_corner">0</string>
+    <string name="teama_free">0</string>
+    <string name="teamb_shoot">0</string>
+    <string name="teamb_penalty">0</string>
+    <string name="teamb_corner">0</string>
+    <string name="teamb_free">0</string>
+    <string name="teama_goal_button">goal</string>
+    <string name="teama_shoot_button">shoot</string>
+    <string name="teama_penalty_button">penalty</string>
+    <string name="teama_corner_button">corner</string>
+    <string name="teama_free_button">free</string>
+    <string name="teamb_shoot_button">shoot</string>
+    <string name="teamb_goal_button">goal</string>
+    <string name="teamb_penalty_button">penalty</string>
+    <string name="teamb_corner_button">corner</string>
+    <string name="teamb_free_button">free</string>
+    <string name="reset_button">reset</string>
+</resources>
